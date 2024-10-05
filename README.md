@@ -1,1 +1,2 @@
 # odin-recipes
+This project consists of building a basic website with sub-pages containing guidance on how to recreate food recipes that I appreciate. Working on this project I learned to program in HTML at a basic level. In particular, I understood how to build the basic structure of an HTML file, organize the text of the file into paragraphs with related titles and subtitles, modify the text with particular formatting, insert images within the body of the file and connect a main web page with pages secondary.
