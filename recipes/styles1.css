@@ -1,0 +1,40 @@
+.titolo {
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+text-align: center;
+color: crimson;
+background-color: moccasin;
+box-sizing: border-box;
+padding: 30px;
+}
+.immagine {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.sottotitolo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    color: green;
+    box-sizing: border-box;
+    background-color: beige;
+    padding: 15px;
+}
+.testo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+.ingredienti {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+.passi {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
